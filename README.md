@@ -1,1 +1,1 @@
-Project: https://teracle.github.io/Candy_project/
+Project: https://mnosov622.github.io/Candy_project/
